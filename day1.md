@@ -21,8 +21,8 @@
 - whoami
 - hostname
 - date
-...and many more I won't name every single mid command lines obv
-<img width="950" height="1080" alt="image" src="https://github.com/user-attachments/assets/76535ecf-9a25-4787-8217-b6f86aa243f6" />
+- Additional commands explored include file navigation, directory management, and basic file operations. The focus was understanding how Linux systems are organized and interacted with through the command line.
+- <img width="950" height="1080" alt="image" src="https://github.com/user-attachments/assets/76535ecf-9a25-4787-8217-b6f86aa243f6" />
 
 ## Notes
 
