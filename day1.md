@@ -13,7 +13,7 @@
   - PicoCTF
   - OverTheWire
   - OWASP
-<img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/45ea8dfb-d34f-4c54-b992-1bf0a1829efa" />
+<img width="950" height="1080" alt="image" src="https://github.com/user-attachments/assets/76535ecf-9a25-4787-8217-b6f86aa243f6" />
 
 ## Linux Commands Learned
 
