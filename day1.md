@@ -13,7 +13,6 @@
   - PicoCTF
   - OverTheWire
   - OWASP
-<img width="950" height="1080" alt="image" src="https://github.com/user-attachments/assets/76535ecf-9a25-4787-8217-b6f86aa243f6" />
 
 ## Linux Commands Learned
 
@@ -23,7 +22,7 @@
 - hostname
 - date
 ...and many more I won't name every single mid command lines obv
-  <img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/daad2204-f924-40fc-a678-1d10b926d85f" />
+<img width="950" height="1080" alt="image" src="https://github.com/user-attachments/assets/76535ecf-9a25-4787-8217-b6f86aa243f6" />
 
 ## Notes
 
